@@ -3,6 +3,10 @@ body {
   background-size: cover;
 }
 
+.title	{
+	text-transform: uppercase;
+}
+
 .content {
 	margin-top: 7rem;
 }
