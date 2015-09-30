@@ -3,6 +3,14 @@ body {
   background-size: cover;
 }
 
+.content {
+	margin-top: 7rem;
+}
+
+.article {
+	background: #e6e6e6;
+}
+
 img.logo {
 	width: 15%;
 }
