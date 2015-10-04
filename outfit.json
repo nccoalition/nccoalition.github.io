@@ -52,15 +52,15 @@
       "outfit": "Wardogs",
       "tag": "[WDSF]",
       "leader": "Roh",
-      "officers": "ChunkyBluntz",
-      "website": "",
+      "officers": "ChunkyBluntz, SilkyZ, CaptStress",
+      "website": "http://www.wardogsps2.enjin.com/",
       "teamspeak": ""
     },    
     {
       "outfit": "Outfit X",
       "tag": "[X]",
-      "leader": "TwistaX",
-      "officers": "Jampie, Teneth, Kestro",
+      "leader": "TwistaX, XGrendelX",
+      "officers": "Teneth, Kestro, Elcreepo",
       "website": "",
       "teamspeak": ""
     },    
@@ -69,14 +69,14 @@
       "tag": "[PG]",
       "leader": "Afflictive",
       "officers": "CaptainKickAss3",
-      "website": "",
-      "teamspeak": ""
+      "website": "http://praetorianguardgaming.com/",
+      "teamspeak": "ts39.gameservers.com:9123 (ask for password)"
     },    
     {
       "outfit": "The Swarm",
       "tag": "[SWRM]",
-      "leader": "xMedievalWelderx",
-      "officers": "",
+      "leader": "Caek1",
+      "officers": "xMedievalWelderx",
       "website": "",
       "teamspeak": ""
     },    
@@ -103,6 +103,14 @@
       "officers": "Speilman",
       "website": "",
       "teamspeak": ""
+    },
+    {
+      "outfit": "1st New Conglomerate Division",
+      "tag": "[1NCD]",
+      "leader": "LongArcher",
+      "officers": "LianneTheWayfarer",
+      "website": "none",
+      "teamspeak": "none"
     }
   ]
 }
